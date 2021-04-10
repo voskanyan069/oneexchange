@@ -69,7 +69,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="20sp"
         android:layout_marginRight="10sp"
-        android:text="andranik.voskanyan@realschool.am"
+        android:text="andranik.voskanyan.gp@gmail.com"
         android:textSize="20sp"
         android:textColor="@color/colorFont"
         android:fontFamily="@font/righteous" />
